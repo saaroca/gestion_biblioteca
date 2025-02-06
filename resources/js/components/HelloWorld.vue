@@ -1,6 +1,9 @@
 <template>
     <ul>
         <li>
+            <router-link to="/books">Listar libros</router-link>
+        </li>
+        <li>
             <router-link to="/login">Login</router-link>
         </li>
         <li>
